@@ -1,4 +1,7 @@
-<a href="?tableau">tableau XS</a><br>
-<a href="?tableau">tableau S</a><br>
-<a href="?tableau">tableau M</a>
+<?php $title='exercice 4';
+include "include/header.php";
+?>
 
+<?php
+include "include/footer.php";
+?>
