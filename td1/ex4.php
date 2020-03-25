@@ -21,7 +21,7 @@ $size=$_GET["size"]??"XS";
 <?php
 $size=$_GET["size"]??"XS";
 ?>
-<div style="font-size"> Tableau:
+<div style="font-size">
 </div>
 
 
