@@ -2,7 +2,7 @@
 <a href="?message">tableau S</a><br>
 <a href="?message">tableau M</a>
 
-<table border='1'>
+<table border='message'>
     <tbody>
         <tr>
             <td>1-1</td>
