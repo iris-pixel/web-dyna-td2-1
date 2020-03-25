@@ -21,7 +21,5 @@ echo "<h2>Tableau de $nbLignes par $nbColonnes</h2>";
 		<?php }?>
 	</tbody>
 </table> 
-<?php
-include "include/footer.php";
-?>
+
 
