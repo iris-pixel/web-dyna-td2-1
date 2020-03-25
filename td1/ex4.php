@@ -21,7 +21,11 @@ $size=$_GET["size"]??"XS";
 <?php
 $size=$_GET["size"]??"XS";
 ?>
-<div style="font-size">
+<div style="font-size: <?=$size?>px">
 </div>
+<form method="GET" action="">
+    <textarea name="message"><?=$message?></textarea>
+	<input type="size" name="size" value="<?=$size?>"><br>
+</form>
 
 
